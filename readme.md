@@ -220,18 +220,7 @@ from sklearn.metrics import roc_auc_score
 metrics['auc'] = roc_auc_score(y, y_pred_proba)
 ```
 
-## 📝 Checklist hoàn thành bài tập
-
-- [ ] Code chạy thành công
-- [ ] Có biểu đồ visualization
-- [ ] Console output đầy đủ metrics
-- [ ] Code có comments đầy đủ
-- [ ] Báo cáo 10-15 trang
-- [ ] Upload code lên GitHub
-- [ ] README.md đầy đủ
-- [ ] requirements.txt
-
-## 🎯 Tips để có điểm cao
+## 🎯 Tips
 
 1. **Code quality:**
    - Comments rõ ràng
@@ -266,8 +255,6 @@ Nếu gặp vấn đề:
 1. Check console error messages
 2. Google error message
 3. Check Stack Overflow
-4. Hỏi bạn cùng lớp
-5. Hỏi giảng viên
 
 ## 📚 Tài liệu tham khảo thêm
 
