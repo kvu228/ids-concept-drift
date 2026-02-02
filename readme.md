@@ -179,7 +179,7 @@ pip install <missing_module>
 ```
 
 ### Lỗi 2: File not found (KDDTrain+.txt)
-- Download dataset theo hướng dẫn Bước 4
+- Download dataset theo hướng dẫn Bước 4≈
 - Hoặc để code tự tạo sample data
 
 ### Lỗi 3: Memory error
